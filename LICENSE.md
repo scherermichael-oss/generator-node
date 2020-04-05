@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 Open-source software by Michael Scherer
+Copyright (c) 2020 Michael Scherer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
